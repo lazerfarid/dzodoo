@@ -1,0 +1,2 @@
+# dzodoo
+my odoo personalization
